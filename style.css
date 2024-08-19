@@ -6,3 +6,16 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+
+.arrabiata-heading{
+    color: #bd7c04;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.h3 {
+    color: pink;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: purple;
+}
